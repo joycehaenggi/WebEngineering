@@ -1,0 +1,40 @@
+html {
+    font-family: Verdana;
+
+}
+
+h2 {
+    color: #116da0;
+    font-size: 19px;
+}
+
+table.table {
+    table-layout: auto;
+    width: 100%;
+
+
+}
+
+
+th {
+    text-align: left;
+    color: #116da0;
+}
+
+td, caption {
+    text-align: left;
+
+}
+
+tr.dayoff-style {
+    font-style: oblique;
+
+}
+
+tr.exercise-date {
+    background-color: #116da0;
+
+}
+
+
+
